@@ -3,9 +3,9 @@
 # Hey there! I am Kennedy Zapalac! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 I am a student at the University of Texas at Austin, and I am majoring in Psychology with a business minor. I am from The Woodlands, Texas, but I am currently living in Austin for school. I'm learning how to skillfully use computers, and I think that computer literacy will be a great asset for me after I graduate.
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=kzapalac&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### How to reach me: (Click the buttons to view my profiles!)
 <p align="center">
