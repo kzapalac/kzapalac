@@ -5,7 +5,7 @@ I am a student at the University of Texas at Austin, and I am majoring in Psycho
 
 <img src="https://github-readme-stats.vercel.app/api?username=kzapalac&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzapalac&layout=compact)](https://github.com/kzapalac/github-readme-stats)
 ---
 ### How to reach me: (Click the buttons to view my profiles!)
 <p align="center">
