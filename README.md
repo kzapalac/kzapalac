@@ -12,7 +12,7 @@ I am a student at the University of Texas at Austin, and I am majoring in Psycho
   <a href="https://www.facebook.com/kennedy.zapalac"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://twitter.com/kennedy_zapalac"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.instagram.com/kennedyzapalac"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.linkedin.com/in/kennedy-zapalac-54147322b"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/kennedy-zapalac-1a1726231"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ### Take a look at what I'm working on below ⬇️ 😄
