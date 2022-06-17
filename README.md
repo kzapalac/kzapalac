@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-# Hey there! I am Kennedy Zapalac! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there! I am Kennedy Zapalac! &emsp;
 I am a student at the University of Texas at Austin, and I am majoring in Psychology with a business minor. I am from The Woodlands, Texas, but I am currently living in Austin for school. I'm learning how to skillfully use computers, and I think that computer literacy will be a great asset for me after I graduate.
 
 <img src="https://github-readme-stats.vercel.app/api?username=kzapalac&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
