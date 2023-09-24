@@ -5,4 +5,4 @@ I am a student at the University of Texas at Austin majoring in Psychology, mino
 ---
 
 ### Take a look at what I'm working on below ⬇️ 😄
-You will find a mix of my class projects and projects I completed as an undergraduate research assistant.
+You will find a mix of my class projects and projects I completed as an undergraduate research assistant. I am unable to post some of my projects here due to privacy restrictions though.
